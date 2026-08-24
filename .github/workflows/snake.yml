@@ -1,32 +1,19 @@
-name: Generate Snake
+name: update contribution chart
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"     # todo dia à meia-noite
+  workflow_dispatch:         # permite rodar manualmente
+  push:
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: pipipi-dev/gcchart@v1
         with:
-          github_user_name: douglas-anjos-prog
           outputs: |
-            snake.svg?palette=github-dark
-
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: .
-          force_orphan: true
-          commit_message: "Atualizando animação da cobrinha 🐍"
+            contributions.svg
