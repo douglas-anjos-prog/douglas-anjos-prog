@@ -142,9 +142,9 @@ Isso significa lidar não apenas com código, mas também com:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=douglas-anjos-prog&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-anjos-prog&layout=compact">
+![GitHub followers](https://img.shields.io/github/followers/douglas-anjos-prog?style=for-the-badge&logo=github&color=6C63FF)
+![GitHub stars](https://img.shields.io/github/stars/douglas-anjos-prog?style=for-the-badge&logo=github&color=6C63FF)
+![GitHub repos](https://img.shields.io/badge/Repositórios-3-6C63FF?style=for-the-badge&logo=github)
 
 </div>
 <br>
