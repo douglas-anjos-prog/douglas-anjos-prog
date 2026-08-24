@@ -168,11 +168,11 @@ Isso significa lidar não apenas com código, mas também com:
 
 ---
 
-## 🏆 Conquistas no GitHub
+## 📊 Mapa de Contribuições
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=douglas-anjos-prog&theme=onedark&column=6)](https://github.com/douglas-anjos-prog)
+![contribuições](https://raw.githubusercontent.com/douglas-anjos-prog/douglas-anjos-prog/output/snake.svg)
 
 </div>
 ---
