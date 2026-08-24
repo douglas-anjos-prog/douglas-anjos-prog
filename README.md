@@ -172,7 +172,7 @@ Isso significa lidar não apenas com código, mas também com:
 
 <div align="center">
 
-![contribuições](https://raw.githubusercontent.com/douglas-anjos-prog/douglas-anjos-prog/output/snake.svg)
+![contribuições](https://raw.githubusercontent.com/douglas-anjos-prog/douglas-anjos-prog/output/contributions.svg)
 
 </div>
 ---
