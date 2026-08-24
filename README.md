@@ -142,12 +142,11 @@ Isso significa lidar não apenas com código, mas também com:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-anjos-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=douglas-anjos-prog&show_icons=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-anjos-prog&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-anjos-prog&layout=compact">
 
 </div>
-
 <br>
 
 <div align="center">
