@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -8,23 +8,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Gerar animação da cobrinha
+      - name: Generate Snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: douglas-anjos-prog
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            snake.svg?palette=github-dark
 
-      - name: Fazer deploy para a branch output
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: dist
+          publish_dir: .
           force_orphan: true
+          commit_message: "Atualizando animação da cobrinha 🐍"
