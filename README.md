@@ -168,22 +168,13 @@ Isso significa lidar não apenas com código, mas também com:
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Conquistas no GitHub
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/douglas-anjos-prog/douglas-anjos-prog/output/snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=douglas-anjos-prog&theme=onedark&column=6)](https://github.com/douglas-anjos-prog)
 
 </div>
-
-> **⚠️ Importante:** Para essa imagem funcionar, você precisa criar um workflow do GitHub Actions que gere o snake. Depois de configurado, a animação vai aparecer automaticamente!
-
----
-
-<div align="center">
-<img src="./assets/roadmap.svg" width="92%" alt="Roadmap">
-</div>
-
 ---
 
 ## 🌱 Atualmente estudando
