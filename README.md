@@ -142,9 +142,9 @@ Isso significa lidar não apenas com código, mas também com:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-anjos-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&text_color=FFFFFF&icon_color=6C63FF&bg_color=0D1117">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-anjos-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-anjos-prog&layout=compact&langs_count=8&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-anjos-prog&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
 
 </div>
 
@@ -152,7 +152,7 @@ Isso significa lidar não apenas com código, mas também com:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=douglas-anjos-prog&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=douglas-anjos-prog&hide_border=true&theme=github_dark" />
 
 </div>
 
