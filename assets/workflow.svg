@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#7C6CF6"/><stop offset="1" stop-color="#F778BA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="#0D1117" stroke="#30363D"/>
+  <text x="55" y="48" fill="#F0F6FC" font-family="Arial" font-size="25" font-weight="700">COMO EU CONSTRUO</text>
+
+  <g font-family="Arial" text-anchor="middle">
+    <g>
+      <rect x="55" y="85" width="150" height="85" rx="18" fill="#161B22" stroke="#58A6FF"/>
+      <text x="130" y="118" fill="#58A6FF" font-size="25">01</text><text x="130" y="146" fill="#F0F6FC" font-size="16">Problema</text>
+    </g>
+    <g>
+      <rect x="265" y="85" width="150" height="85" rx="18" fill="#161B22" stroke="#58A6FF"/>
+      <text x="340" y="118" fill="#58A6FF" font-size="25">02</text><text x="340" y="146" fill="#F0F6FC" font-size="16">Análise</text>
+    </g>
+    <g>
+      <rect x="475" y="85" width="150" height="85" rx="18" fill="#161B22" stroke="#7C6CF6"/>
+      <text x="550" y="118" fill="#7C6CF6" font-size="25">03</text><text x="550" y="146" fill="#F0F6FC" font-size="16">Solução</text>
+    </g>
+    <g>
+      <rect x="685" y="85" width="150" height="85" rx="18" fill="#161B22" stroke="#7C6CF6"/>
+      <text x="760" y="118" fill="#7C6CF6" font-size="25">04</text><text x="760" y="146" fill="#F0F6FC" font-size="16">Código</text>
+    </g>
+    <g>
+      <rect x="895" y="85" width="150" height="85" rx="18" fill="#161B22" stroke="#F778BA"/>
+      <text x="970" y="118" fill="#F778BA" font-size="25">05</text><text x="970" y="146" fill="#F0F6FC" font-size="16">Entrega</text>
+    </g>
+  </g>
+
+  <g stroke="url(#g)" stroke-width="3" fill="none">
+    <path d="M205 127 H265"/><path d="M415 127 H475"/><path d="M625 127 H685"/><path d="M835 127 H895"/>
+  </g>
+
+  <text x="600" y="215" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="15">
+    entender → construir → testar → melhorar
+  </text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#7C6CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#0D1117" stroke="#30363D"/>
+  <text x="55" y="50" fill="#F0F6FC" font-family="Arial" font-size="26" font-weight="700">ROADMAP</text>
+  <text x="55" y="78" fill="#8B949E" font-family="Arial" font-size="15">Próxima etapa da evolução técnica</text>
+
+  <g font-family="Arial">
+    <text x="55" y="125" fill="#F0F6FC" font-size="16">Java</text>
+    <rect x="150" y="111" width="820" height="18" rx="9" fill="#21262D"/>
+    <rect x="150" y="111" width="590" height="18" rx="9" fill="url(#g)"/>
+    <text x="990" y="126" fill="#8B949E" font-size="14">em evolução</text>
+
+    <text x="55" y="165" fill="#F0F6FC" font-size="16">React</text>
+    <rect x="150" y="151" width="820" height="18" rx="9" fill="#21262D"/>
+    <rect x="150" y="151" width="400" height="18" rx="9" fill="url(#g)"/>
+    <text x="990" y="166" fill="#8B949E" font-size="14">estudando</text>
+
+    <text x="55" y="205" fill="#F0F6FC" font-size="16">Node.js</text>
+    <rect x="150" y="191" width="820" height="18" rx="9" fill="#21262D"/>
+    <rect x="150" y="191" width="360" height="18" rx="9" fill="url(#g)"/>
+    <text x="990" y="206" fill="#8B949E" font-size="14">estudando</text>
+
+    <text x="55" y="245" fill="#F0F6FC" font-size="16">IA / ML</text>
+    <rect x="150" y="231" width="820" height="18" rx="9" fill="#21262D"/>
+    <rect x="150" y="231" width="430" height="18" rx="9" fill="url(#g)"/>
+    <text x="990" y="246" fill="#8B949E" font-size="14">estudando</text>
+  </g>
+</svg>
